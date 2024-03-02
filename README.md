@@ -9,6 +9,8 @@
 
 <h1>Tutorial :)</h1>
 <p> Entre na página pelo link: https://projeto-mochila-693qwzy17-clarke2302.vercel.app/?vercelToolbarCode=KzXWAMaefov4bvd (se não quiser baixar todo o código na sua máquina)</p>
-<p> Digite o nome do item, a quantidade desse item que deseja levar e clique em adicionar.</p>
-<p> Caso não queira mais levar o item clique no X. E caso errou a quantidade, só digite o mesmo item com a quantidade certa, e adicionae, ele automaticamente atualizará para você.</p>
+<p> 1 - Digite o nome do item; </p>
+<p> 2 - Digite a quantidade desse item que deseja levar; </p> 
+<p> 3 - Clique em adicionar. </p>
+<p> Obs: Caso não queira mais levar o item clique no X. E caso errou a quantidade, só digite o mesmo item com a quantidade certa, ao adicionar ele automaticamente atualizará para você.</p>
 
